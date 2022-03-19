@@ -1,0 +1,60 @@
+
+
+body {
+    padding: 85px 25px;
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+body .sig {
+    text-align: center
+    
+}
+
+.sig {
+    color: rgb(196, 5, 186);
+    font-weight: 700;
+}
+
+.card {
+    max-width: 290px;
+    padding: 15px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    margin-bottom: 50px;
+
+}
+
+.card img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.text {
+    text-align: center;
+}
+
+.text h1 {
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 1.3
+    
+}
+
+.text p {
+    font-size: 15px;
+    padding: 15px;
+    color: hsl(220, 15%, 55%);
+    line-height: 1.2;
+    margin-bottom: 10px;
+}
+
+@media all and (min-width: 376px) {
+    .card {
+        width: 325px;
+        margin: 110px auto;
+        
+        
+    }
+}
