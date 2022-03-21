@@ -7,7 +7,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -29,19 +28,13 @@ This is my first "formal" project with a workflow that has guidelines. Perhaps t
 - Solution URL: [https://github.com/Jorgus1710/FEMchallenge-QRcode]
 - Live Site URL: [https://jorgus1710.github.io/FEMchallenge-QRcode/]
 
-## My process
-
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -63,16 +56,13 @@ When it came to media queries for desktop view, I added a min-width pixel range 
 }
 ```
 
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 ### Continued development
 
 Im looking forward to learn best practices or common methods of centering a card or any div for that matter. Im curious what will be suited for me as time goes on.
 
 ### Useful resources
 
-- Youtube and Google were excellent resources, as well I highly reccomend the following youtube video from Zero to Mastery.io [https://www.youtube.com/watch?v=PY_iIeAKFw0&ab_channel=ZeroToMastery] - the first part of the video is free and is what really helped me understand how important training from a design file is, as well there were numerous tips in the video. The rest of the workshop video can be seen through a subscription to (Zerotomatery.io). I Highly reccomend it.
+- Youtube and Google were excellent resources, as well I highly reccomend the following youtube video from ZerotoMastery.io [https://www.youtube.com/watch?v=PY_iIeAKFw0&ab_channel=ZeroToMastery] - the first part of the video is free and is what really helped me understand how important training from a design file is, as well there were numerous tips in the video. The rest of the workshop video can be seen through a subscription to (Zerotomatery.io). I Highly reccomend it.
 
 ## Author
 
